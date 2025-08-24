@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rafay 👋</h1>
 
 <p align="center">
-  3rd Year CS Student @ GIKI | Python Enthusiast | Aspiring ML Engineer
+  Final Year CS Student @ GIKI | Python Enthusiast | Aspiring ML Engineer
 </p>
 
 ---
