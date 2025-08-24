@@ -9,7 +9,7 @@
 ### 💡 About Me
 
 - 🎓 I'm a Computer Science undergrad at GIKI  
-- 🧠 Interested in Machine Learning, Audio/DSP, and Real-World Problem Solving  
+- 🧠 Interested in Machine Learning and Real-World Problem Solving  
 - 💻 Experienced with Python, C++, WinForms (.NET), and PostgreSQL  
 - 📊 Skilled in pandas, NumPy, matplotlib for data analysis  
 - 🛠 Built a complete Inventory Management System using WinForms + PostgreSQL  
